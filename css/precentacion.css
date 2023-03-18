@@ -1,0 +1,36 @@
+#Inicio{
+    background-image: linear-gradient(to right top, #b0f6ff, #9beaf5, #84deec, #6cd3e2, #51c7d9, #51c7d9, #51c7d9, #51c7d9, #6cd3e2, #84deec, #9beaf5, #b0f6ff);
+}
+.btn-Search{
+    background-image: linear-gradient(to right top, #6dff86, #60f675, #53ed63, #46e350, #37da3b, #37da3b, #37da3b, #37da3b, #46e350, #53ed63, #60f675, #6dff86);
+}
+
+#Cal{
+    background-image: linear-gradient(to right top, #7795fd, #617ff8, #4c69f3, #3852eb, #2539e2, #2539e2, #2539e2, #2539e2, #3852eb, #4c69f3, #617ff8, #7795fd);
+}
+#Tex{
+    color: antiquewhite;
+}
+
+#IMC{
+    background-image: linear-gradient(to right top, #986bee, #8b5ce9, #7e4ce4, #703bdf, #6129da, #6129da, #6129da, #6129da, #703bdf, #7e4ce4, #8b5ce9, #986bee);
+}
+
+#Encabezado{
+    background-image: linear-gradient(to right top, #64637c, #5b5a78, #535174, #4a4870, #423f6c, #423f6c, #423f6c, #423f6c, #4a4870, #535174, #5b5a78, #64637c);
+}
+#Regresar{
+    background-image: linear-gradient(to right top, #d3d6d6, #c6cbcb, #bac1c1, #adb6b6, #a1acac, #a1acac, #a1acac, #a1acac, #adb6b6, #bac1c1, #c6cbcb, #d3d6d6);
+}
+#Presentacion{
+    background-image: linear-gradient(to right top, #669797, #61a3a3, #59b0b0, #4ebcbc, #3fc9c9, #3fc9c9, #3fc9c9, #3fc9c9, #4ebcbc, #59b0b0, #61a3a3, #669797);
+    
+}
+
+#Areas{
+    background-image: linear-gradient(to right top, #06ec6a, #00ee8d, #00efab, #00efc4, #00eed8, #00eed8, #00eed8, #00eed8, #00efc4, #00efab, #00ee8d, #06ec6a);
+}
+
+#Propinas{
+    background-image: linear-gradient(to right top, #81acfb, #739dee, #648fe2, #5681d5, #4773c9, #4773c9, #4773c9, #4773c9, #5681d5, #648fe2, #739dee, #81acfb);
+}
